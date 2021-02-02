@@ -1,6 +1,7 @@
 deploy:
   provider: releases
   api_key:  
+   secure: "NlZeon/k/SvecacWsvHbvU7Do+VMQ9VbRbH+nb/cHdfqoqxL1H4UChYpu+lY+tBgR2QukuMC23gp1t2YyrVVphqO551vNQtPi4H/ftbw2wi18091q5S2SKBbvc/SBwDyvMZn1013leK7Fio3ZmVXTnmDaerR10GqYH+FjCagU5+c9UrRTKV6QjIJ3pbO2HuCgRCyMFcsnzgK3rqIPcHZlN7cwzXRO1ze2fPp78i7/vEquFf8Hr0Oxx8Y8PSDbn+lFrlmKOdpQhlah9AmwcyFIprmVVLqkqcwY9ewU5ZiUm7poAhdXGpTP5mFeHYKgsST3dQXXjH8E06PMj0RaaxGACdIVabDKO9i8L2hj0Qo2hqNuBFFiz4TPsWfsqmXf3o1ccESkXRqAqicvfPwVgHTmcRTrlevdsnT5DDU7cGBWHt+Z6n/uHgEnLcOUgjGOH9rsPUcV0GynoE73OKsOo5q+1oUvbwpjazdxJEDkhrrYlixuN3WeA6uxJgqigE3ehgptq/S/1aF2rfkI0RtMacdfTdfMqdS0kR2CKUgWQDmBEjzhKtRcrTA2W+Tnj346UwbHUF39d4NWpZSWvgkPX4vuUFNbG6O/Z2T9bpgGRoavIt9ET5udutRbZ/bOIKW+Hi6OZ4qjyGiQIClnq7v0sV7stoUDW6u+uHTMzwdWvuLw+Q="
   file: "hello.sh"
   on:
     repo: dlavric/new-release-travis
